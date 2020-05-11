@@ -60,6 +60,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor/bundle 
 
 collections:
   pages:
