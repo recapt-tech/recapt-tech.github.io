@@ -66,6 +66,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  pagesForDeliverables:
+    output: true
+    permalink: /:path/
 
 # Markdown rendering
 markdown: kramdown
