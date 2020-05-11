@@ -19,11 +19,11 @@ Initially, the key activities will be the app development and the AI solution to
 
 Number of active users is one of the key resources of any mobile based app. In addition, the collected user data is a key resource that can be aggregated to extract insights and trends about buying trends and purchasing habits.
 
-### Value propositions
+### Value Propositions
 
 Offering the customers, a cross platform solution that is free and that will help them track their expenses and stay within their budget through an easy to use interface and a set of fully customizable charts and graphs.
 
-### Customer relationships
+### Customer Relationships
 
 The app offers a free tier so they are little risks in trying out the app. In addition, the AI based solution offers high accuracy with little required manual corrections. Finally, the users are in control of what they want to track and how they want to report it (customizable charts).
 
@@ -31,15 +31,15 @@ The app offers a free tier so they are little risks in trying out the app. In ad
 
 Main apps stores for different OS (mainly: Android and iOS) would be used as a main channel of distribution. Potential customers can be reached through ads and social media interactions (e.g. Facebook, Twitter).
 
-### Customer segments
+### Customer Segments
 
 There are two segments of customers. Ordinary users who are interested in tracking their expenses and small business who want an affordable digital solution for all of their paper receipts. The first is a larger segment but the second can be charged more.
 
-### Cost structure
+### Cost Structure
 
 The most important cots for this venture would be salaries of developers, and the expenses on servers, app infrastructure and online marketing.
 
-### Revenue streams
+### Revenue Streams
 
 The revenue stream will come two main sources. The first being ads that is shown to customers who opt for the free tier version of the app. The second stream are the monthly subscription for premium features.
 
