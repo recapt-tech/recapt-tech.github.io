@@ -5,7 +5,7 @@ include_in_header: false
 description:  planned activities for the future and required investements.
 fontawesome_icon_name: question
 ---
-# How will this venture continue?
+# How Will This Venture Continue?
 
 ### Time Investment
 
@@ -15,7 +15,7 @@ From mid November to the end of February, the venture will run massive marketing
 
 Considering that three out of five founders of the venture will leave Sweden from the next upcoming academic semester, the division of work and even the continuity of the venture will be hard. In case of any founder leaving the venture, we will need to find its substitute so the plan is still up and running.
 
-### Upcoming Activities and Expected outcomes
+### Upcoming Activities and Expected Outcomes
 
 In order for this venture to continue to grow, we need to keep working on it. There are a number of activities planned for the next period that will help grow our customer base and solidify our position in the market. The next table summarizes the most important of these activities.
 
@@ -31,7 +31,7 @@ Expand our current solution offering and introduce and Enterprise edition of our
 
 Reach partnership agreements with some of the big supermarket chains in sweden (e.g. ICA, Lidl, etc.) This will help us improve receipt parsing accuracy for the partner stores and allow extraction for richer metadata and increase brand trust by being associated by an established name in the market.
 
-### Uncertainty in times of the COVID-19 virus
+### Uncertainty in Times of The COVID-19 Virus
 
 Entrepreneurs have been greatly affected by the coronavirus pandemic. One might say that the current situation is the ultimate entrepreneurial test as this ordeal has forced many businesses to continuously adapt in order to survive. 
 
