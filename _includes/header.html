@@ -17,13 +17,15 @@
 	<nav class="scroll">
 		<ul>
 			{% for page in site.pages %}
-				{% if page.include_in_header == true %}
-				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
-				{% endif %}
+			{% if page.include_in_header == true %}
+			<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
+			{% endif %}
 			{% endfor %}
 			<li><a href="https://www.youtube.com/watch?v=sp8hhP5qkbs" target="_self">Demo</a></li>
-			<li><a href="/assets/deliverables/final_report.pdf" target="_self">Report</a></li>
-			
+			<li><embed src="/assets/deliverables/final_report.pdf" width=”600” height=”500”> </embed></li>
+			<!--- <li><a href="/assets/deliverables/final_report.pdf" target="_self">Report</a></li> -->
+
+
 		</ul>
 	</nav>
 </header>
