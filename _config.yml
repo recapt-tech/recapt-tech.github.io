@@ -60,9 +60,13 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor/bundle 
 
 collections:
   pages:
+    output: true
+    permalink: /:path/
+  pagesForDeliverables:
     output: true
     permalink: /:path/
 
