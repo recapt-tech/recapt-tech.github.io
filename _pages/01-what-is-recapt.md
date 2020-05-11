@@ -20,13 +20,13 @@ recapt is an AI-based solution to help users track their receipts and manage the
 
 The process is simple, the user takes a screenshot of a receipt and the app takes care of the rest, it scans the receipts and by using AI-technology it extracts individual items in the receipt, individual quantities, prices and where the purchase took place. The app stores all this information in one place that can be searched at any time by the user. The next figure shows a typical usage workflow for the application.
 
-![worflow](assets/content/workflow.PNG)
+![worflow](/assets/content/workflow.png)
 
 ### Sustainability Goals
 
 Any new venture wants to make money and profit, there is nothing inherently wrong with that but any venture needs, as part of its mission, to make the world a better place for everyone. Each venture will contribute differently based on its area of application. In 2015, the UN adopted an Agenda of sustainable development that includes 17 sustainable development goals[^footnote]. The next figure shows these goals. These goals desire to achieve sustainable development for all people.
 
-![sustainable-goals](assets/content/goals.PNG)
+![sustainable-goals](/assets/content/goals.png)
 
 We, the founders, upon starting this venture wanted to make the world a better place. After evaluating this venture goals and mission it is clear that this venture will contribute in three main goals; No Poverty (Goal #1) by helping people manage their expenses in fine detailed manner, In addition, the venture will help with Industry, Innovation and Infrastructure (Goal #9) as we try to use cellphone camera, something that has existed for many years now, to introduce a novel solution to the problem of paper receipts. Moreover, we will help with Sustainable Cities and Communities (Goal #11) as this venture tries to reduce paper waste and revolutionize receipt handling.  
 

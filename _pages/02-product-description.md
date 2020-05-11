@@ -22,4 +22,4 @@ This app uses an OCR engine that is driven by Deep Learning. Deep learning is th
 
 After detecting text using the OCR engine, the data is fed into the parser to extract relevant details and discard irrelevant ones. Later, this parsed data is showed to the user for review and confirmation. Finally, the data is stored in the cloud so that the user can access it any time and on any device.
 
-![technical-steps](assets/content/steps.PNG)
+![technical-steps](/assets/content/steps.png)

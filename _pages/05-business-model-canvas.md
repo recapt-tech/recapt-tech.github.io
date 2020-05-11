@@ -43,4 +43,4 @@ The most important cots for this venture would be salaries of developers, and th
 
 The revenue stream will come two main sources. The first being ads that is shown to customers who opt for the free tier version of the app. The second stream are the monthly subscription for premium features.
 
-![business model canvas](assets/content/canvas.PNG)
+![business model canvas](/assets/content/canvas.png)

@@ -145,7 +145,7 @@ Retention strategies refer to techniques that invest in getting existing paying 
 
 A values matrix helps prioritize all the tactics that have come up with when measuring the strategies on it. Essentially, it helps choose the tactics that have the highest business value and take the least amount of resources to implement.
 
-![value-matrix](assets/content/value-matrix.PNG)
+![value-matrix](/assets/content/value-matrix.png)
 
 Business “value” depends on strategic objectives while implementation “complexity” encompasses the time it takes to implement, internal resources needed, and design costs.
 
@@ -158,7 +158,7 @@ Business “value” depends on strategic objectives while implementation “com
 
 Tactics explain how to implement the strategy. In this marketing plan we will schedule the better alternatives to implement than others at achieving strategy goals based on the values matrix.
 
-![marketing-plan](assets/content/marketing-plan.PNG)
+![marketing-plan](/assets/content/marketing-plan.png)
 
 ##### Budget
 
