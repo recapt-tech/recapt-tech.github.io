@@ -2,7 +2,7 @@
 layout: page
 title: Business Model Canvas
 include_in_header: false
-description:  visually  describe our venture's  value proposition, customers, and finances and key activities.
+description:  Visually  describe our venture's  value proposition, customers, and finances and key activities.
 fontawesome_icon_name: palette
 ---
 # Business Model Canvas

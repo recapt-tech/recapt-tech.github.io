@@ -2,7 +2,7 @@
 layout: page
 title: How will we continue?
 include_in_header: false
-description:  planned activities for the future and required investements.
+description:  Planned activities for the future and required investements.
 fontawesome_icon_name: question
 ---
 # How Will This Venture Continue?
