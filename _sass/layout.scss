@@ -390,13 +390,13 @@ nav > ul li a:active {
 .iphonePreview {
 	grid-area: p;
 	background-image: url($device-color);
-	background-size: 400px auto;
+	background-size: 310px 550px;
 	background-repeat: no-repeat;
-	margin-top: 68px;
+	margin-top: 15px;
 }
 
 .iphoneScreen {
-	width: 349px;
+	width: 310px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
 	margin-left: 26px;
@@ -404,17 +404,17 @@ nav > ul li a:active {
 }
 
 .videoContainer {
-	width: 349px;
-	height: 755px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
-	margin-left: 26px;
-	margin-top: 23px;
+	width: 262px;
+	height: 500px;
+	// -webkit-clip-path: url(#screenMask);
+	// clip-path: url(#screenMask);
+	margin-left: 24px;
+	margin-top: 30px;
 }
 
 .videoContainer > video {
-	width: 349px;
-	height: 755px;
+	width: 262px;
+	height: 500px;
 }
 
 @media only screen and (max-width: 1070px) {
