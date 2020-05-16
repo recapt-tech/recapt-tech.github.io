@@ -1,7 +1,8 @@
 # App Info
-page_title                                : recapt
+page_title                                : Recapt
 app_icon                                  : assets/logo.png                   
-app_name                                  : recapt                                  
+company_logo                              : assets/recapt.png
+app_name                                  : Recapt                                  
 app_description                           : Capture Your Expenses
 
 
