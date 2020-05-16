@@ -43,8 +43,8 @@
 	grid-column-gap: 30px;
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
-		"p p p p p i i i i i i i"
-		"c c c c c c c c c c c c"
+		"p p p p p p p i i i i i"
+		"d d d d c c c c c c c c"
 		"f f f f f f f f f f f f";
 }
 
@@ -388,7 +388,7 @@ nav > ul li a:active {
 // iPhone Device Preview
 
 .iphonePreview {
-	grid-area: p;
+	grid-area: d;
 	background-image: url($device-color);
 	background-size: 310px 550px;
 	background-repeat: no-repeat;
@@ -477,7 +477,14 @@ nav > ul li a:active {
 	
 } 
 
-
+// Laptop Preview
+.laptopPreview{
+	grid-area: p;
+	background-image: url("../assets/laptop_frame.png");
+	background-size: 526px 360px;
+	background-repeat: no-repeat;
+	margin-top: 120px;
+}
 // Feature List
 
 .features {
