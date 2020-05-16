@@ -39,7 +39,7 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
+	grid-template-rows: 115px 720px auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
@@ -390,9 +390,9 @@ nav > ul li a:active {
 .iphonePreview {
 	grid-area: d;
 	background-image: url($device-color);
-	background-size: 310px 550px;
+	background-size: 287px 510px;
 	background-repeat: no-repeat;
-	margin-top: 15px;
+	margin-top: 0px;
 }
 
 .iphoneScreen {
@@ -404,8 +404,8 @@ nav > ul li a:active {
 }
 
 .videoContainer {
-	width: 262px;
-	height: 500px;
+	width: 287px;
+	height: 510px;
 	// -webkit-clip-path: url(#screenMask);
 	// clip-path: url(#screenMask);
 	margin-left: 24px;
@@ -481,7 +481,7 @@ nav > ul li a:active {
 .laptopPreview{
 	grid-area: p;
 	background-image: url("../assets/laptop_frame.png");
-	background-size: 526px 360px;
+	background-size: 556px 380px;
 	background-repeat: no-repeat;
 	margin-top: 120px;
 }

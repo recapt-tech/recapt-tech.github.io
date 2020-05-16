@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What is recapt?
-include_in_header: false
+title: About us
+include_in_header: true
 description:  Know more about this venture, its goals and how it is going to change the world?
 fontawesome_icon_name: chart-pie
 ---
