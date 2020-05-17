@@ -11,7 +11,7 @@ fontawesome_icon_name: question
 
 The venture will need six months to check the viability of the company and six more months to deliver all planned products. Out of all the surveys that have been done before, we still need one more survey to tune in and add extra milestones in the MVP version of our product. The development of this market-ready app is estimated to be done in mid July and ready to install by users in the marketplace. We will conduct an evaluation in September, two months after release, to learn what features can be developed in order to establish a new product, enterprise edition. Meanwhile, we will have startup tours to pitch our product from July to November and expect to get first funding in November as required to run our planned activities.
 
-From mid November to the end of February, the venture will run massive marketing campaigns in order to grow its customer base and have active communication with the community. Along with that, we plan to develop enterprise version from November to April, then start marketing this product to the companies in May. Meanwhile, another team will focus on store partnership from November to May.
+From mid November to the end of February, the venture will run massive marketing campaigns in order to grow its customer base and have active communication with the community. Along with that, we plan to develop enterprise versions from November to April, then start marketing this product to the companies in May. Meanwhile, another team will focus on store partnership from November to May.
 
 Considering that three out of five founders of the venture will leave Sweden from the next upcoming academic semester, the division of work and even the continuity of the venture will be hard. In case of any founder leaving the venture, we will need to find its substitute so the plan is still up and running.
 
@@ -39,7 +39,7 @@ The coronavirus pandemic has affected a number of areas and activities. For star
 
 Furthermore, As everyone has been hit economically, many businesses are laying off personnel or cutting unnecessary expenditure, hence, it becomes more challenging to sell to companies because you have to convince them that this will have a direct measurable positive effect on the bottom line.
 
-However, as more people are practicing social distancing and there is a growing fear of travelling and human contact, it gives a fertile ground for startups that will provide virtual alternatives to everyday activities. For instance, the current pandemic had catalyzed the growth of many ecommerce websites.
+However, as more people are practicing social distancing and there is a growing fear of travelling and human contact, it gives a fertile ground for startups that will provide virtual alternatives to everyday activities. For instance, the current pandemic has catalyzed the growth of many ecommerce websites.
 
 For a startup to survive the current situation it needs to understand three things: 
 
