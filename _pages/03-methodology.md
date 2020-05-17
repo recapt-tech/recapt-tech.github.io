@@ -8,11 +8,11 @@ fontawesome_icon_name: cogs
 
 # Methodology and Work Process
 
-A key to the success of a venture is following a continuous cycle of prototyping and seeking customer feedback so that customers opinions are an integral part of the design from the get go. During the development of this venture we followed the same approach.
+A key to the success of a venture is following a continuous cycle of prototyping and seeking customer feedback so that customers' opinions are an integral part of the design from the get go. During the development of this venture we followed the same approach.
 
 ### Ideation
 
-As part of the ideation phase, a market survey was conducted among KTH master students to see the potential for the receipt scanning app. The next figure shows a screenshot from the survey.  More than 95% of the respondents agreed that paper receipts are needs to be come digital. 
+As part of the ideation phase, a market survey was conducted among KTH master students to see the potential for the receipt scanning app. The next figure shows a screenshot from the survey.  More than 95% of the respondents agreed that paper receipts are needed to become digital. 
 
 ![initial-survey](/assets/content/initial-survey.png)
 
@@ -24,15 +24,15 @@ As an aside, due to the ongoing virus situation, it is difficult to talk directl
 
 ### Design Iteration
 
-We conducted a more thorough survey to understand what our customers like or dislike about our app. The survey wanted to assess the problem validity (do people care about financial management? do they want a tool to automate it? etc.) and solution validity (do people like the core features? Are any important features missing? etc.).
+We conducted a more thorough survey to understand what our customers like or dislike about our app. The survey wanted to assess the problem validity (do people care about financial management? Do they want a tool to automate it? etc.) and solution validity (do people like the core features? Are any important features missing? etc.).
 
-The survey results indicated that 68.4% think that financial management is very important and  55.3% of respondents have practiced at least one form of financial management. Furthermore,   44.7% think that tracking expenses in details (line level) is very important and at least 39.5% keep a record of the original receipt while 31.6% keep the receipt and maintain a record of it.
+The survey results indicated that 68.4% think that financial management is very important and  55.3% of respondents have practiced at least one form of financial management. Furthermore,   44.7% think that tracking expenses in detail (line level) is very important and at least 39.5% keep a record of the original receipt while 31.6% keep the receipt and maintain a record of it.
 
 ![survey-results-for-user-action-with-receipts](/assets/content/survey-results-for-user-action-with-receipts.png)
 
-The results indicate a high preference for recording and tracking expenses, however, the survey revealed that the number one customer pain point (60.5%) find the process very time consuming and that it takes a lot of effort.
+The results indicate a high preference for recording and tracking expenses, however, the survey revealed that the number one customer pain point (60.5%) finds the process very time consuming and that it takes a lot of effort.
 
-In addition, the survey showed general positive reactions towards our initial prototype.   89.5% of respondents thought that the automatic item detection feature was the most important feature, 36.8% thought that the customizable charts was most important while 44.7% favored the price comparison feature. The next figure shows the top most important features based on the survey results.
+In addition, the survey showed general positive reactions towards our initial prototype.   89.5% of respondents thought that the automatic item detection feature was the most important feature, 36.8% thought that the customizable charts were most important while 44.7% favored the price comparison feature. The next figure shows the top most important features based on the survey results.
 
 ![survey-results-for-most-important-feature](/assets/content/survey-results-for-most-important-feature.png)
 
