@@ -16,10 +16,11 @@ One of the core requirements is the ease of use of the solution both in terms of
 
 ### Technology Description
 
-Optical Character Recognition (OCR) is the process of using computer vision to automatically detect and extract text from an image (e.g. printed receipt). Many traditional OCR systems rely hand crafted rules to detect text which achieved sub optimal accuracy. 
+Optical Character Recognition (OCR) is the process of using computer vision to automatically detect and extract text from an image (e.g. printed receipt). Many traditional OCR systems rely on hand crafted rules to detect text which achieves sub optimal accuracy.
 
 This app uses an OCR engine that is driven by Deep Learning. Deep learning is the next evolution of machine learning that learns through an artificial neural network and allows the machine to analyze data and learn complex structures. Incorporating deep learning into OCR has allowed the accuracy to improve drastically and the algorithm is able to extract text, quantities and prices of different lines. 
 
-After detecting text using the OCR engine, the data is fed into the parser to extract relevant details and discard irrelevant ones. Later, this parsed data is showed to the user for review and confirmation. Finally, the data is stored in the cloud so that the user can access it any time and on any device.
+After detecting text using the OCR engine, the data is fed into the parser to extract relevant details and discard irrelevant ones. Later, this parsed data is shown to the user for review and confirmation. Finally, the data is stored in the cloud so that the user can access it any time and on any device.
+
 
 ![technical-steps](/assets/content/steps.png)
