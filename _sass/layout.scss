@@ -129,8 +129,8 @@ header {
 .headerIcon {
 	width: 162px;
 	height: 50px;
-	-webkit-clip-path: url(#shape);
-	clip-path: url(#shape);
+	// -webkit-clip-path: url(#shape);
+	// clip-path: url(#shape);
 }
 
 @media only screen and (max-width: 768px) {
